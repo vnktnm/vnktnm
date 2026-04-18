@@ -7,7 +7,7 @@
 
 > Engineer who loves to solve problems and yes, solve problems!!!
 
-- 🔭 I'm currently working on **[Calorie-AI](https://github.com/vnktnm/calorie-ai)**
+- 🔭 I'm currently working on **[BiteRite](https://github.com/vnktnm/biterite)**
 - 🌱 I'm currently learning **[Language Models & Engineering]**
 - 💬 Ask me about **[AI/ML Engineering]**
 - 📫 How to reach me: **venkatnm.94@outlook.com**
